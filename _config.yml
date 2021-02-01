@@ -3,7 +3,7 @@ title               : Dollar Dhingra
 description         : Hey there! I am a passiionate software developer from Delhi, India. I write about web development & good programming
   practices.<br><a href='/about/'>Read more</a>
 
-baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+baseurl             : "dollardhingra.com"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : dollardhingra/dollardhingra.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 
@@ -25,7 +25,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Dollar Dhingra
-  image             : https://dollardhingra.github.io/assets/images/Dollar.jpg
+  image             : https://dollardhingra.com/assets/images/Dollar.jpg
 #  behance           : your_username
 # dribbble          : your_username
   email             : ddhingra1991@dgmail.com
