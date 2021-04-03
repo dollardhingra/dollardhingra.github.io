@@ -1,5 +1,5 @@
 ---
- title: Beginner's guid to Abstract Base Class in Python
+ title: Beginner's guide to Abstract Base Class in Python
  tags: [python, oops]
  style: fill
  color: light
