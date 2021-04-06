@@ -1,6 +1,6 @@
 ---
-layout: single
-author_profile: true
+layout: splash
+author_profile: false
 permalink: /about/
 ---
 
@@ -12,5 +12,6 @@ I created this blog to share my thoughts on web development & good programming p
 
 If you have a feedback about any of my articles or want to connect with me professionally then please feel free to do so:
 
-
-Email: ddhingra1991@gmail.com | [LinkedIn](https://linkedin.com/in/dollardhingra) |  [Github]()
+ - Email me at : ddhingra1991@gmail.com
+ - Follow with me on [LinkedIn](https://linkedin.com/in/dollardhingra)
+ - Check out my work on [Github](https://github.com/dollardhingra)

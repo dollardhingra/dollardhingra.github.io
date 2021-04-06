@@ -15,6 +15,26 @@ layout: default
     line-height: 1;
     letter-spacing: -1px;
   }
+  .btn {
+    display: inline-block;
+    margin-bottom: 0.25em;
+    padding: 0.5em 1em;
+    font-family: -apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+    font-size: .75em;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    border-width: 0;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .btn--primary {
+    background-color: #6f777d;
+    color: #fff;
+ }
+  .btn--x-large {
+      font-size: 1.25em;
+  }
 </style>
 
 <div class="container">
@@ -22,4 +42,5 @@ layout: default
 
   <p><strong>Page not found :(</strong></p>
   <p>The requested page could not be found.</p>
+  <p><a class=".btn .btn--primary .btn--x-large" href="/">Take me HOME!</a></p>
 </div>
