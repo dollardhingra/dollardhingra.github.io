@@ -76,4 +76,4 @@ comments:
   transforms:
     email: md5
 
-  allowedOrigins: ["dollardhingra.com"]
+  allowedOrigins: ["https://dollardhingra.com"]
