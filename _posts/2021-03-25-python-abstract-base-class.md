@@ -5,7 +5,7 @@
  color: light
  description: In this article, you will learn about the benefits of abstract base classes and how to use them with python's built in abc module
  comments: true
- categories: coding
+ categories: computer-science
  last_modified_at: 2021-04-22T22:20:02+05:30
 ---
 ## What is an abstract base class?
