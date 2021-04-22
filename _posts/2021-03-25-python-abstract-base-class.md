@@ -6,6 +6,7 @@
  description: In this article, you will learn about the benefits of abstract base classes and how to use them with python's built in abc module
  comments: true
  categories: coding
+ last_modified_at: 2021-04-22T22:20:02+05:30
 ---
 ## What is an abstract base class?
 In simple words, an abstract base class provides a blueprint for other classes. Abstract base classes don't contain the implementation. Instead, they provide an interface and make sure that the derived classes are properly implemented.
