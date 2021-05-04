@@ -147,6 +147,8 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/dollardhingra"
 
+    - label: "disclaimer"
+      url: "/disclaimer/"
 
 
 # Reading Files
