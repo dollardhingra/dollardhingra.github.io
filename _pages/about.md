@@ -12,6 +12,6 @@ I created this blog to share my thoughts on web development & good programming p
 
 If you have a feedback about any of my articles or want to connect with me professionally then please feel free to do so:
 
- - Email me at : ddhingra1991@gmail.com
+ - Email me at : dhingradollar@gmail.com
  - Follow with me on [LinkedIn](https://linkedin.com/in/dollardhingra)
  - Check out my work on [Github](https://github.com/dollardhingra)

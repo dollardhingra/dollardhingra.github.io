@@ -98,11 +98,11 @@ author:
   avatar           : "assets/images/DollarDhingra.jpeg"
   bio              : "*Just another software engineer trying to write a blog*"
   location         : "Delhi, India"
-  email            : "ddhingra1991@gmail.com"
+  email            : "dhingradollar@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:ddhingra1991@gmail.com"
+      # url: "mailto:dhingradollar@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
