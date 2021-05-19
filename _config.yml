@@ -45,7 +45,7 @@ comments:
     issue_term           : "pathname" # "pathname" (default)
   staticman:
     branch               : "master" # "master"
-    endpoint             : "https://staticman-dollardhingra.herokuapp.com/v3/entry/github/" # "https://{your Staticman v3 API}/v3/entry/github/"
+    endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
 reCaptcha:
   siteKey                :
   secret                 :
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Dollar Dhingra"
   avatar           : "assets/images/DollarDhingra.jpeg"
-  bio              : "*Just another software engineer trying to write a blog*"
+  bio              : "Software Developer"
   location         : "Delhi, India"
   email            : "dhingradollar@gmail.com"
   links:
