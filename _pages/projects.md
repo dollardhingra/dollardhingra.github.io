@@ -13,7 +13,7 @@ permalink: /projects/
 CowinQuick is a website for **quickly** checking available slots for vaccinations. It uses the 
 [CoWIN public API](https://apisetu.gov.in/public/marketplace/api/cowin) for getting the results.
 
-Read more about it (here)[(/blog/cowinquick-vaccine-availability/)]
+Read more about it [here](/blog/cowinquick-vaccine-availability/)
 
 Link to Project: [Link](/cowinquick/) <br>
 Repository: [Link](https://github.com/dollardhingra/cowinquick)
