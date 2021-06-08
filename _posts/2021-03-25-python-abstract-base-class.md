@@ -8,6 +8,11 @@
  categories: computer-science
  last_modified_at: 2021-04-22T22:20:02+05:30
 ---
+{% include figure image_path="/assets/images/blog/abstract base class/abstract_base_classes_cover.png" alt="Abstract Base Classes in Python" %}
+
+## Introduction
+In this article, you will learn about the benefits of abstract base classes in Python and how to use them with Python's built in `abc` module
+
 ## What is an abstract base class?
 In simple words, an abstract base class provides a blueprint for other classes. Abstract base classes don't contain the implementation. Instead, they provide an interface and make sure that the derived classes are properly implemented.
 
@@ -74,7 +79,7 @@ bulldog.is_dead() # NotImplementedError
 ```
 The subclass `Dog` does not implement the `is_dead` method of the `Animal` base class and when we try to call this method from the bulldog object we get an error. So this works as expected. But we can run the program successfully if we don't call this method without even a warning for breaking this rule. Ideally, all the methods of the base class should be implemented by the subclass.
 
-** The above program does not follow Rule 1.**
+**The above program does not follow Rule 1.**
 
 
 >Rule 2: Abstract base classes cannot be instantiated. They are inherited by the other subclasses.
