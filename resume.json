@@ -1,0 +1,154 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "work": "Work",
+    "projects": "Open Source Projects"
+  },
+  "basics": {
+    "name": "Dollar Dhingra",
+    "email": "ddhingra1991@gmail.com",
+    "phone": "+919999084599",
+    "website": "https://dollardhingra.com https://www.linkedin.com/in/dollardhingra/",
+    "location": {
+      "address": "New Delhi, India"
+    }
+  },
+  "education": [
+    {
+      "studyType": "Master of Computer Application",
+      "startDate": "August 2012",
+      "institution": "Jagan institute of management studies",
+      "location": "New Delhi, India"
+    },
+    {
+      "institution": " Maharaja Surajmal Institute",
+      "location": "New Delhi, India",
+      "studyType": "Bachelor of Computer Application",
+      "startDate": "August 2009",
+      "endDate": "July 20212"
+    }
+  ],
+  "work": [
+    {
+      "company": "To The New",
+      "location": "Noida, Uttar Pradesh",
+      "website": "",
+      "startDate": "Jan 2019",
+      "endDate": "Present",
+      "highlights": [
+        "Working on technologies like python, django, celery, postgres, mysql,  grafana, influx, aws lambda, aws kinesis, aws s3 and more.",
+        "Experience in working with recruitment & healthcare domains",
+        "Writing detailed design docs that incorporates all agreed on requirements in PRD, ensuring that PM, QA & other contributors understand it",
+        "Completing product development on time based on the design doc. This includes breaking down of tasks, assigning to sprints, resolving dependencies & testing in non-staging environments",
+        "Writing readable & maintainable code using TDD approach using best python best practices and code quality tools like formatters & linters.",
+        "Guiding & mentoring junior developers and conducting knowledge based sessions in the organisation."
+      ],
+      "position": "Senior Software Engineer"
+    },
+    {
+      "highlights": [
+        "Worked on technologies like python, django, mongoDB, mySQL, javascript, angularJS and more.",
+        "Working closely with client servicing team, understanding and implementing client's requirement at front-end & back-end.",
+        "Designing, writing & maintaining server side modules such as data-storage systems, REST APIs, automated tools/scripts, emailers.",
+        "Designing & implementing UX & UI in mobile app, web & emails.",
+        "Exploring new technologies, conducting R&Ds & prototyping POCs  for new developments & enhancements."
+      ],
+      "company": "Ubora(Sharedreach Mobilty Services)",
+      "position": "Software Engineer",
+      "location": "Gurugram, Haryana",
+      "startDate": "Jan-2015",
+      "endDate": "Jan-2019"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": [
+        "Python",
+        "JavaScript"
+      ]
+    },
+    {
+      "keywords": [
+        "Django"
+      ],
+      "name": "Web Frameworks"
+    },
+    {
+      "keywords": [
+        "MongoDB",
+        "Elasticsearch",
+        "MySQL",
+        "InfluxDB"
+      ],
+      "name": "Databases"
+    },
+    {
+      "keywords": [
+        "Celery",
+        "asyncio",
+        "django-rest-framework"
+      ],
+      "name": "Libraries"
+    },
+    {
+      "keywords": [
+        "Grafana",
+        "InfluxDB"
+      ],
+      "name": "Data Monitoring"
+    },
+    {
+      "keywords": [
+        "Asynchronous programming",
+        "i18n & l10n",
+        "Docker",
+        "REST APIs"
+      ],
+      "name": "Others"
+    }
+  ],
+  "projects": [
+    {
+      "keywords": [
+        "JavaScript",
+        "HTML, CSS"
+      ],
+      "name": "CowinQuick - Find vaccination slots quickly",
+      "description": "CowinQuick is a website for quickly checking available slots for vaccinations.",
+      "url": "https://dollardhingra.com/cowinquick/"
+    },
+    {
+      "keywords": [
+        "Python",
+        "Heroku"
+      ],
+      "name": "Covid19 India Resources - Telegram BotPermalink",
+      "description": "A Telegram bot to find resources on Twitter for those suffering from covid19. Download Telegram to use this bot.",
+      "url": "https://github.com/dollardhingra/covid19indiaresources"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Geek Combat Hackathon - 1st Prize",
+      "awarder": "TO THE NEW",
+      "date": "March 2021",
+      "summary": "TO THE NEW's in-house hackathon in which 27 teams took part"
+    },
+    {
+      "title": "Employee of the month",
+      "date": "September 2019",
+      "awarder": "TO THE NEW"
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "work",
+    "education",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
