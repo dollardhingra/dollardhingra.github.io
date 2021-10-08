@@ -6,26 +6,22 @@
  comments: true
  categories: computer-science
  excerpt: An introduction to some code quality tools in python like linters, formatters & style guides
- header:
-  overlay_image: assets/images/blog/code-reviews/krishna-pandey-KNZHyTpre18-unsplash.jpg
-  overlay_color: "#000"
-  overlay_filter: "0.5"
 ---
 
-# What is code quality?
+## What is code quality?
 Before we talk about code quality tools, let's see what code quality is. We can agree that code is of high quality if
 
-## it **does what it is supposed to do**
+### it **does what it is supposed to do**
 If the code written is not doing what is supposed to do, then it doesn't meet the very basic requirements, and we can
 say that the code quality is low.
 
-## it **does not contain defects** or problems.
+### it **does not contain defects** or problems.
 Let's say that your code does what it is supposed to do, but struggles to perform well on edge cases. Let's take an
 example of a mobile app that you start using for communicating with friends and family. You can send & receive messages easily from your friends through this app. One fine day, you want to share a photo with a group and your app
 crashes. Certainly, there is some issue with the code that has not been tested properly. 
 
 
-## it is easy to **read, maintain, and extend**.
+### it is easy to **read, maintain, and extend**.
 Finally, let's consider that a code does what is supposed to do, and it does not contain any defects or problems. But,
 the code is not easy to read, maintain and extend. 
 
@@ -38,7 +34,7 @@ even if it makes the writing harder.
 Therefore, code readability is a very important factor in code quality.
 
 
-# Style guide: following the conventions
+## Style guide: following the conventions
 
 > Great codebases look like they were written by an individual, 
 when they were worked on by a team.
@@ -53,7 +49,7 @@ Here, the eye has to do extra work to tell which items are added and which are s
 
 **Not Recommended:**
 ```python
-# No: operators sit far away from their operands
+## No: operators sit far away from their operands
 income = (gross_wages +
           taxable_interest +
           (dividends - qualified_dividends) -
@@ -69,7 +65,7 @@ readable
 
 **Recommended:**
 ```python
-# Yes: easy to match operators with operands
+## Yes: easy to match operators with operands
 income = (gross_wages
           + taxable_interest
           + (dividends - qualified_dividends)
@@ -100,13 +96,13 @@ Checkout google's [python style guide](https://google.github.io/styleguide/pygui
 
 
 
-# How to measure code quality?
+## How to measure code quality?
 There are different ways to measure code quality in general. This article talks about some basic tools
 provided in Python to measure the code quality:
 - Linters
 - Formatters
 
-# Linters
+## Linters
 Linters analyze code to detect various categories of issues:
 
 1. Logical Issue
@@ -117,7 +113,7 @@ Linters analyze code to detect various categories of issues:
 2. Stylistic Issue
   - Code not conforming to defined conventions/style guide
 
-## Popular python linters
+### Popular python linters
 
 1. [Pylint](https://www.pylint.org/): Features like checking **coding standards**, **error detection**, **refactoring help** and more.
 2. [pycodestyle](https://github.com/PyCQA/pycodestyle): for checking some of the style conventions in PEP8
@@ -138,10 +134,10 @@ static tool for code analysis. It cannot check if the job that is supposed to be
 
 
 
-# Formatters
+## Formatters
 Formatters automatically format your code based on a style guide. Some popular python formatters are:
 
-## Black
+### Black
 as per the black's documentation, [Black](https://github.com/psf/black) is "The uncompromising Python code formatter". 
 It is my personal favourite because it has minimal configuration and is fast enough. Black is used by some very popular open-source projects, such as pytest, tox, Pyramid, Django Channels, Poetry, and so on. Example usage:
 
@@ -186,17 +182,17 @@ if __name__ == "__main__":
     print(is_unique(input()))
 ```
 
-## YAPF
+### YAPF
 [YAPF](https://github.com/google/yapf) (Yet Another Python Formatter) is Google's official python formatter which
 follows google's [style guide](https://google.github.io/styleguide/pyguide.html). The documentation is easy to
 understand the installation and configuration for this formatter.
 
-## autopep8
+### autopep8
 [autopep8](https://pypi.org/project/autopep8/) is an unofficial, yet popular, tool that automatically formates 
 Python code to conform to PEP 8. It uses pycodestyle, Python’s official PEP-8 violation checker tool, to determine what parts of the code need to be formatted.
 
 
-## isort
+### isort
 [isort](https://github.com/PyCQA/isort) is a Python utility/library to sort imports alphabetically, and 
 automatically separated into sections and by type.
 
@@ -245,14 +241,14 @@ print("yo")
 
 
 
-# Where to use the code quality tools?
+## Where to use the code quality tools?
 You can use these code quality tools:
 - In your IDE/editor, when you are writing your code
 - on committing the code
 - merging the code or while running the tests
 
 
-## IDE/editor
+### IDE/editor
 
 Most modern IDEs and editors have inbuilt support for linters. Some editors like [VS Code](https://code.visualstudio.com/docs/python/linting) have great support for linters. You can also run a specific formatter on running the auto-format command in VS Code. Check more about it
 [here](https://code.visualstudio.com/docs/python/editing#_formatting).
@@ -260,21 +256,21 @@ Most modern IDEs and editors have inbuilt support for linters. Some editors like
 For IDE like Pycharm, there are plugins available for running lints and formatters. For example, check out the [pylint plugin](https://plugins.jetbrains.com/plugin/11084-pylint) and 
 [black formatter plugin](https://plugins.jetbrains.com/plugin/10563-black-pycharm)
 
-## On Committing the code: Hooks
+### On Committing the code: Hooks
 Like many other Version Control Systems, Git has a way to fire off custom scripts when certain important actions occur through [git-hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks). You can use these scripts to run the 
 lints and formatters to block any new code that doesn’t meet quality standards or to automatically format the commit.
 A useful [pre-commit](https://pre-commit.co m/) (written in python) is a multi-language package manager for 
 pre-commit hooks. You specify a list of hooks you want and pre-commit manages the installation and execution of any hook written in any language before every commit
 
 
-## When running tests: Continuous Integration
+### When running tests: Continuous Integration
 You can also place linters & formatters directly into whatever system you may use for continuous integration. 
 The linters can be set up to fail the build if the code doesn’t meet quality standards. A CI(continuous integration)  is a practice of automating the integration of code changes from multiple contributors into a single software project. This means that as soon as a developer merge their code in the main branch, the CI 
 pipeline(for eg: git workflow) can perform some automatic operations like formatting before the code is deployed.
 
 
 
-# Conclusion
+## Conclusion
 A code is of high quality if it does what it is supposed to do, it **does not contain defects** or problems and
 it is easy to **read, maintain, and extend**. Style guides like A style guide like [PEP8](https://pep8.org/) and google's [style guide](https://google.github.io/styleguide/) help serve the purpose of defining a consistent way to write your code. The different tools for measuring and improving the code quality are linters & formatters.
 
