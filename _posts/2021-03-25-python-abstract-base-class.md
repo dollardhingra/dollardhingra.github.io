@@ -7,11 +7,6 @@
  comments: true
  categories: computer-science
  last_modified_at: 2021-04-22T22:20:02+05:30
- header:
-   overlay_image: /assets/images/blog/abstract base class/abstract_base_classes_cover.png
-   overlay_color: "#000"
-   overlay_filter: "0.75"
-excerpt: "Spreadsheets could replace 80% of software"
 ---
 
 ## Introduction

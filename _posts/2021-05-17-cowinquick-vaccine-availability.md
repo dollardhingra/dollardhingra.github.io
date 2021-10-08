@@ -6,10 +6,6 @@
  comments: true
  categories: computer-science
  excerpt: One of my side projects for booking vaccine slots quickly
- header:
-    overlay_image: /assets/images/blog/cowin/viktor-forgacs-FcDqdJUM6B4-unsplash.jpg
-    overlay_color: "#000"
-    overlay_filter: "0.5"
 ---
 
 # Introduction

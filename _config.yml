@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dollar Dhingra"
+title                    : "Dollar Dhingra's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dollar Dhingra"
@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Dollar Dhingra"
-  avatar           : "assets/images/DollarDhingra.jpeg"
+  avatar           : "assets/images/Dollar.jpeg"
   bio              : "Software Developer"
   location         : "Delhi, India"
   email            : "dhingradollar@gmail.com"
@@ -300,7 +300,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: true
       share: true
