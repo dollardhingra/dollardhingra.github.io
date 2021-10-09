@@ -11,21 +11,21 @@
 ## What is code quality?
 Before we talk about code quality tools, let's see what code quality is. We can agree that code is of high quality if
 
-### it **does what it is supposed to do**
+### It does what it is supposed to do
 If the code written is not doing what is supposed to do, then it doesn't meet the very basic requirements, and we can
 say that the code quality is low.
 
-### it **does not contain defects** or problems.
+### It does not contain defects or problems
 Let's say that your code does what it is supposed to do, but struggles to perform well on edge cases. Let's take an
 example of a mobile app that you start using for communicating with friends and family. You can send & receive messages easily from your friends through this app. One fine day, you want to share a photo with a group and your app
 crashes. Certainly, there is some issue with the code that has not been tested properly. 
 
 
-### it is easy to **read, maintain, and extend**.
+### It is easy to read, maintain, and extend
 Finally, let's consider that a code does what is supposed to do, and it does not contain any defects or problems. But,
 the code is not easy to read, maintain and extend. 
 
-Robert C. Martin in his book Clean Code says:
+Robert C. Martin in his book [Clean Code](https://www.oreilly.com/library/view/clean-code-a/9780136083238/) says:
 
 >Indeed, the ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as
 part of the effort to write new code. Because this ratio is so high, we want the reading of the code to be easy, 
@@ -286,10 +286,6 @@ Finally, You can use these code quality tools using:
 - IDE/editors - when you are writing your code
 - pre-commit hooks - on committing the code using 
 - continuous integration - while running the tests
-
-
-
-
 
 
 
