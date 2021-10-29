@@ -1,5 +1,5 @@
 ---
- title: Simple CoWIN Vaccine Availability Website 
+ title: My Open Source Project - Simple CoWIN Vaccine Availability
  tags: [cowin, covid19, javascript]
  style: fill
  color: light
