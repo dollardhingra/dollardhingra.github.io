@@ -2,5 +2,5 @@ https://jekyllrb.com/docs/installation/macos/
 
 bundle install
 
-bundle updte
+bundle update
 

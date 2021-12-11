@@ -12,7 +12,7 @@
 This article is a collection of best practices for more idiomatic python code especially if you are new to python. 
 
 ## Contribute
-Feel free to contribute to this list, and I will thank you by including a link to your profile with the snippet!
+Feel free to [contribute](https://github.com/dollardhingra/dollardhingra.github.io/edit/master/_posts/2021-12-05-python-code-best-practices.md) to this list, and I will thank you by including a link to your profile with the snippet!
 
 ## 1. Catching Exceptions
 This is a sure-shot way to get your code into trouble
@@ -57,7 +57,7 @@ def is_empty(sample_arr):
     ...
 ```
 
-In python, snake_case is preferred for variables, functions and method names. However, for classes, PascalCase is used.
+In python, `snake_case` is preferred for variables, functions and method names. However, for classes, `PascalCase` is used.
 
 ## 3. Chained comparison operators
 There are multiple ways of comparing in Python:
