@@ -1,5 +1,5 @@
 ---
- title: Python Code Best Practices  
+ title: Best Practices For Writing Clean Pythonic Code
  tags: [python, code-quality]
  style: fill
  color: light
