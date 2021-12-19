@@ -1,5 +1,5 @@
 ---
- title: My Open Source Project - Simple CoWIN Vaccine Availability
+ title: CoWIN Vaccine Availability - My first open source project
  tags: [cowin, covid19, javascript]
  style: fill
  color: light
