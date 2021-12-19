@@ -1,5 +1,5 @@
 ---
- title: Python Code Quality Tools 
+ title: Code Quality Tools in Python
  tags: [python, code-quality]
  style: fill
  color: light
