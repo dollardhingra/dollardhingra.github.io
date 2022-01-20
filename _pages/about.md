@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Hi There!
 I am {{ site.author.name }} 👋,
-I am a passionate software developer. I created this blog to share my thoughts on web development & good programming 
+I am a passionate software engineer. I created this blog to share my thoughts on backend development & good programming 
 practices in a very simple language which is easy for anyone to understand.
 
 Checkout my projects [here](/projects). Feel free to provide your suggestions or improve 
