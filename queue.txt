@@ -1,0 +1,22 @@
+Queue for my upcoming articles :)
+
+- scaling a web application to million users in 10 steps: https://www.youtube.com/watch?v=MSO2VKifjOI
+- python pass by reference: https://realpython.com/python-pass-by-reference/
+- prefer composition over inheritance:
+  - https://www.youtube.com/watch?v=YXiaWtc0cgE
+  - https://www.youtube.com/watch?v=o1FZ_Bd4DSM&t=1624s
+  - https://realpython.com/inheritance-composition-python/
+  - https://realpython.com/factory-method-python/
+- knowledge sharing techniques
+- tech radar
+  - https://github.com/zalando/tech-radar
+  - https://opensource.zalando.com/tech-radar/
+  - https://www.thoughtworks.com/radar
+  - https://tech-radar.preply.com/#
+
+
+Pages:
+- recommendations:
+    - books
+    - movies
+
