@@ -87,7 +87,8 @@ team in meetings and code reviews. The members with a centralized knowledge can 
 spreading their knowledge in the team so that they can spend their time and energy on 
 something new for the team. 
 
-
+What do you think of Bus factor in your team? Do you have more methods to prevent high bus
+factor? Feel free to give your feedback!
 
 
 
