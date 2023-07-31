@@ -93,34 +93,34 @@ analytics:
 
 
 # Site Author
-author:
-  name             : "Dollar Dhingra"
-  avatar           : "assets/images/Dollar.jpeg"
-  bio              : "Software Engineer @ [Tata 1mg](https://www.1mg.com/)"
-  location         : "Delhi, India"
-  email            : "dhingradollar@gmail.com"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:dhingradollar@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/dollardhingra"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/dollardhingra"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/dollardhingra13"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+#author:
+#  name             : "Dollar Dhingra"
+#  avatar           : "assets/images/Dollar.jpeg"
+#  bio              : "Software Engineer @ [Tata 1mg](https://www.1mg.com/)"
+#  location         : "Delhi, India"
+#  email            : "dhingradollar@gmail.com"
+#  links:
+#    - label: "Email"
+#      icon: "fas fa-fw fa-envelope-square"
+#      # url: "mailto:dhingradollar@gmail.com"
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      # url: "https://your-website.com"
+#    - label: "Linkedin"
+#      icon: "fab fa-fw fa-linkedin"
+#      url: "https://linkedin.com/in/dollardhingra"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/dollardhingra"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/dollardhingra13"
+#    - label: "Facebook"
+#      icon: "fab fa-fw fa-facebook-square"
+#      # url: "https://facebook.com/"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
@@ -300,7 +300,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
@@ -315,4 +315,4 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
