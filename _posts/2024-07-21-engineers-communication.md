@@ -1,5 +1,5 @@
 ---
- title: Making the most out of your scrum meetings as a Software Engineer  
+ title: From Updates to Impact - Communicating Effectively in Scrum Meetings  
  tags: [self-help, communication]
  style: fill
  color: light
