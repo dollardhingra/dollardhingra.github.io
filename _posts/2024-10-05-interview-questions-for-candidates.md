@@ -1,11 +1,11 @@
 ---
  title: Beyond the Interview - Asking the Right Questions for Your Next Engineering Role  
- tags: [interviews]
+ tags: [interviews, self-help]
  style: fill
  color: light
  excerpt: Interviews aren’t just an opportunity for the company to evaluate you - they’re also your chance to learn more about the company
  comments: true
- categories: computer-science
+ categories: software-engineering
  last_modified_at: 2024-10-05T15:30:00+05:30
  toc: false
 ---

@@ -1,10 +1,10 @@
 ---
  title: Best Practices For Writing Clean Pythonic Code
- tags: [python, code-quality]
+ tags: [python, code-quality, best-practices]
  style: fill
  color: light
  comments: true
- categories: computer-science
+ categories: software-engineering
  excerpt: A collection of Python code best practices. Read to check how many of these you already know!
 ---
 

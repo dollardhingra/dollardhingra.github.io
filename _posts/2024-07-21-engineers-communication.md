@@ -1,12 +1,12 @@
 ---
  title: Making the most out of your scrum meetings as a Software Engineer  
- tags: [interviews]
+ tags: [self-help, communication]
  style: fill
  color: light
  excerpt: Effective communication in scrum meetings is crucial not just for team and organizational alignment, early issue resolution, and enhanced collaboration, but also for individual engineers
  comments: true
- categories: computer-science
- last_modified_at: 2024-09-20T15:30:00+05:30
+ categories: software-engineering
+ last_modified_at: 2024-07-21T15:30:00+05:30
  toc: false
 ---
 

@@ -1,11 +1,11 @@
 ---
  title: Benchmarking Python JSON serializers - json vs ujson vs orjson  
- tags: [python, json, benchmarking]
+ tags: [python, benchmarking]
  style: fill
  color: light
  excerpt: If you work with a large datasets in json inside your python code, then you might want to try using 3rd party libraries like ujson and orjson
  comments: true
- categories: computer-science
+ categories: software-engineering
  last_modified_at: 2022-05-25T22:40:00+05:30
 ---
 ## Introduction
