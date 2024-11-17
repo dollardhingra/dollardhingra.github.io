@@ -1,6 +1,6 @@
 ---
  title: Consistency in ACID is different from Consistency in CAP  
- tags: [interviews]
+ tags: [database]
  style: fill
  color: light
  excerpt: Interviews aren’t just an opportunity for the company to evaluate you - they’re also your chance to learn more about the company
