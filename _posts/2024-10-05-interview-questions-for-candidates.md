@@ -3,7 +3,7 @@
  tags: [interviews, self-help]
  style: fill
  color: light
- excerpt: Interviews aren’t just an opportunity for the company to evaluate you - they’re also your chance to learn more about the company
+ excerpt: Interviews aren’t just an opportunity for the company to evaluate you, they’re also your chance to learn more about the company
  comments: true
  categories: software-engineering
  last_modified_at: 2024-10-05T15:30:00+05:30
