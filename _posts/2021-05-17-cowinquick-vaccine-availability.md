@@ -1,10 +1,10 @@
 ---
  title: CoWIN Vaccine Availability - My first open source project
- tags: [cowin, covid19, javascript]
+ tags: [open-source]
  style: fill
  color: light
  comments: true
- categories: computer-science
+ categories: software-engineering
  excerpt: One of my side projects for booking vaccine slots quickly
 ---
 

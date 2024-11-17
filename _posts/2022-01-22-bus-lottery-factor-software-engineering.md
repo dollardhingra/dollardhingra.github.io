@@ -1,11 +1,11 @@
 ---
  title: Bus Factor in Software Engineering
- tags: [watercooler, best-practices, discuss]
+ tags: [watercooler, best-practices]
  style: fill
  color: light
  excerpt: What happens to your project, if the most important member of your team doesn't return to work the next day?
  comments: true
- categories: computer-science
+ categories: software-engineering
  last_modified_at: 2022-01-25T22:00:00+05:30
 ---
 

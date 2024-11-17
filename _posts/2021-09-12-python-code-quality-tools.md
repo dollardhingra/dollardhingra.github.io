@@ -4,7 +4,7 @@
  style: fill
  color: light
  comments: true
- categories: computer-science
+ categories: software-engineering
  excerpt: An introduction to some code quality tools in python like linters, formatters & style guides
 ---
 

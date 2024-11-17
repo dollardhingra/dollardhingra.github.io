@@ -1,11 +1,11 @@
 ---
  title: How to install older Ruby versions(2.x) on Mac M1 without using arch x86_64
- tags: [ruby, installation, how-to]
+ tags: [ruby, how-to]
  style: fill
  color: light
  excerpt: I spent hours of searching to figure out an easy way to install older versions of ruby on mac m1
  comments: true
- categories: computer-science
+ categories: software-engineering
  last_modified_at: 2022-01-20T21:00:00+05:30
 ---
 
