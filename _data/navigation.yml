@@ -8,6 +8,8 @@ main:
       url: "/about/"
     - title: "Tags"
       url: /tags/
+    - title: "Recommendations"
+      url: /recommendations/
 #    - title: "Resume"
 #      url: /resume/
   # - title: "Sample Posts"
