@@ -1,21 +1,12 @@
 ---
-layout: splash
 author_profile: false
 permalink: /about/
+title: "About Me"
 ---
 
-## Hi There!
-I am {{ site.author.name }} 👋,
-I am a passionate software engineer. I created this blog to share my thoughts on backend development & good programming 
-practices in a very simple language which is easy for anyone to understand.
+I am {{ site.author.name }} 👋, an Engineering Manager / Tech Lead with 10+ years of experience in software engineering, including 2 years managing technical teams. 
 
-Checkout my projects [here](/projects). Feel free to provide your suggestions or improve 
-the code(Link to github is present in project description).
+With a relentless focus on measurable business outcomes, I thrive on getting things done by systematically optimizing business, cost, system performance, and team productivity. 
+Passionate about solving challenging technical problems, I specialize in designing robust, distributed, and fault-tolerant architectures.
 
-If you have a feedback about any of my articles or want to connect with me professionally
-then please feel free to do so:
-
- - Email me at : dhingradollar@gmail.com
- - Connect with me on [LinkedIn](https://linkedin.com/in/dollardhingra)
- - Check out my work on [Github](https://github.com/dollardhingra)
- - Follow me on [Twitter](https://twitter.com/dollardhingra13)
+Connect with me on [LinkedIn](https://linkedin.com/in/dollardhingra)
