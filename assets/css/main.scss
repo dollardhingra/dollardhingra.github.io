@@ -116,3 +116,7 @@ a, a:visited {
 
 /* Hide the "Recent posts" subtitle on the home page */
 .layout--home .archive__subtitle { display: none !important; }
+
+
+/* show only first 3 related tiles */
+.page__related .grid__wrapper > *:nth-of-type(n+4) { display: none !important; }
