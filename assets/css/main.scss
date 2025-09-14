@@ -1,0 +1,118 @@
+---
+# only the three dashes
+---
+
+/* Inter (or self-host if you prefer) */
+@import url("https://rsms.me/inter/inter.css");
+
+/* ↓ overrides go BEFORE imports ↓ */
+$doc-font-size: 15;  /* base size in px (16 is default). try 15 or 14 */
+$sans-serif: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI",
+             "Helvetica Neue", Arial, sans-serif;
+$global-font-family: $sans-serif;
+
+/* import skin + theme */
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+/* Hide author Follow (button + icons) in the sidebar on the home page */
+.layout--home .sidebar .author__urls-wrapper { display: none !important; }
+
+/* ===== Pink accent + link behavior (Haki-like) ===== */
+:root {
+  --accent-pink: #F41D92;
+  --accent-pink-soft: rgba(255,42,140,.18);
+  --accent-pink-underline: rgba(255,42,140,.55);
+}
+
+a, a:visited {
+   color: #000;
+}
+
+/* --- A) HOME / ARCHIVE TITLES --- */
+/* Pink titles, no underline; keep color on hover, add soft marker */
+.archive__item-title a {
+  text-decoration: none;                 /* remove underline */
+  font-weight: 700;                      /* headings look bold on Haki */
+}
+.archive__item-title a:hover,
+.archive__item-title a:focus {
+  color: var(--accent-pink);             /* don't switch colors */
+  text-decoration: none;
+}
+
+/* --- B) POST CONTENT LINKS --- */
+/* Default: darker text, a bit bolder, pink underline */
+.layout--single .page__content a {
+  color: #111;                           /* look like text by default */
+  font-weight: 600;                      /* “a little bold” */
+  text-decoration-line: underline;
+  text-decoration-thickness: .06em;
+  text-underline-offset: .15em;
+}
+/* Hover: keep text color, add marker + stronger underline color */
+.layout--single .page__content a:hover,
+.layout--single .page__content a:focus {
+    color: var(--accent-pink);
+    text-decoration-line: underline;
+    text-decoration-color: var(--accent-pink);
+}
+
+/* ===== Masthead nav: remove MM underline + add pink marker ===== */
+
+/* 1) Nuke the built-in grow-from-center underline */
+.greedy-nav .visible-links a:before,
+.greedy-nav .visible-links a::before {
+  content: none !important;
+  display: none !important;
+}
+
+/* 2) Base style: dark, semi-bold, no underline */
+.masthead .greedy-nav .visible-links > li > a,
+.masthead .greedy-nav .hidden-links a {
+  color: #111 !important;      /* overrides .greedy-nav a { color:#6f777d } */
+  font-weight: 600;
+  text-decoration: none;
+  border: 0;
+  padding: .15rem 0;
+  display: inline-block;        /* keeps highlight tight to text */
+  background-repeat: no-repeat;
+  /* hide the marker by default */
+
+}
+
+/* 3) Hover/active: reveal the marker (no underline animation) */
+.masthead .greedy-nav .visible-links > li > a:hover,
+.masthead .greedy-nav .visible-links > li > a:focus,
+.masthead .greedy-nav .visible-links > li > a[aria-current="page"],
+.masthead .greedy-nav .visible-links > li.active > a {
+  background-size: 100% 100%;
+  color: var(--accent-pink) !important;
+}
+
+/* 4) Dropdown (“More”) gets same hover */
+.masthead .greedy-nav .hidden-links a:hover,
+.masthead .greedy-nav .hidden-links a:focus {
+  background-size: 100% 100%;
+  color: var(--accent-pink);
+}
+
+
+/* Base look */
+.masthead .site-title {
+  color: #3d4144;
+  font-weight: 700;
+  text-decoration: none;
+
+
+}
+
+/* Hover/focus: pink text + soft marker */
+.masthead .site-title:hover,
+.masthead .site-title:focus {
+  color: var(--accent-pink);
+  background-size: 100% 100%;
+}
+
+/* Hide the "Recent posts" subtitle on the home page */
+.layout--home .archive__subtitle { display: none !important; }
