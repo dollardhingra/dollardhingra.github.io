@@ -29,6 +29,28 @@ a, a:visited {
    color: #000;
 }
 
+.archive__item-title h2 {
+    font-size: 1.33em;
+}
+
+.archive__item-excerpt {
+
+}
+
+hr {
+    margin: 2em 0;
+    border: 0;
+}
+hr:after {
+    content: "...";
+    text-align: center;
+    display: block;
+    letter-spacing: 0.6em;
+}
+hr + * {
+    margin-top: 0;
+}
+
 /* --- A) HOME / ARCHIVE TITLES --- */
 /* Pink titles, no underline; keep color on hover, add soft marker */
 .archive__item-title a {

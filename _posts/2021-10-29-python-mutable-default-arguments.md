@@ -8,6 +8,7 @@
  excerpt: This article talks about what mutable default arguments and why you should avoid using it for most of the cases
 ---
 
+<hr>
 
 
 ## Introduction

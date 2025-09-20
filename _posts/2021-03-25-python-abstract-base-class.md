@@ -9,6 +9,8 @@
  last_modified_at: 2021-04-22T22:20:02+05:30
 ---
 
+<hr>
+
 ## Introduction
 In this article, you will learn about the benefits of abstract base classes in Python and how to use them with Python's built in `abc` module
 {% include figure image_path="/assets/images/blog/abstract base class/abstract_base_classes_cover.png" alt="Abstract Base Classes in Python" %}

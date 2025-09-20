@@ -10,6 +10,7 @@
  toc: false
 ---
 
+<hr>
 
 Interviews aren’t just an opportunity for the company to evaluate you - they’re also your chance to learn more about the company. When the interviewer invites you to ask questions, instead of immediately seeking feedback on your performance, take the opportunity to ask thoughtful questions that will help you understand the company, its culture, and the role you’re applying for. 
 

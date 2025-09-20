@@ -9,6 +9,8 @@
  last_modified_at: 2022-01-25T22:00:00+05:30
 ---
 
+<hr>
+
 # 1. Introduction
 Imagine that John Doe works on a project along with 7-10 folks. John started 
 working on this project from the beginning and therefore knows a lot more than everyone else in the project.

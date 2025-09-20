@@ -9,6 +9,7 @@
  last_modified_at: 2024-07-21T15:30:00+05:30
  toc: false
 ---
+<hr>
 
 I've seen many talented software engineers struggle with effective communication in scrum meetings. 😐 
 

@@ -9,6 +9,7 @@
  last_modified_at: 2024-02-21T19:30:00+05:30
  toc: false
 ---
+<hr>
 
 Joining a new team? Here are some practical tips on how you can quickly build a basic understanding of a new system & codebase, make your onboarding smoother, and build a great first impression among your new teammates!
 

@@ -8,6 +8,9 @@
  categories: software-engineering
  last_modified_at: 2022-05-25T22:40:00+05:30
 ---
+
+<hr>
+
 ## Introduction
 If you work with a large datasets in json inside your python code, 
 then you might want to try using 3rd party libraries like [ujson](https://github.com/ultrajson/ultrajson)

@@ -8,6 +8,8 @@
  excerpt: One of my side projects for booking vaccine slots quickly
 ---
 
+<hr>
+
 # Introduction
 [CoWIN](https://www.cowin.gov.in/home) is a vaccination booking platform for booking vaccination for Indian citizens. This is the largest vaccination drive ever. Anyone can simply go and book the vaccination slots as per the availability in the respective state and districts. In this post, I have created another platform just for checking vaccine availability.
  

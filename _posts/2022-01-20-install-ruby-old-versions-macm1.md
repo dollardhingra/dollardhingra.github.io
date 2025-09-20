@@ -9,6 +9,8 @@
  last_modified_at: 2022-01-20T21:00:00+05:30
 ---
 
+<hr>
+
 # Introduction
 After spending hours of searching different solutions on the internet for **installing older version of ruby (2.5.x, 
 2.6.x etc ) on Mac M1**, I finally figured out the solution and decided to document it by writing a blog.
