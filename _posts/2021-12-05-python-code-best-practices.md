@@ -8,6 +8,8 @@
  excerpt: A collection of Python code best practices. Read to check how many of these you already know!
 ---
 
+<hr>
+
 ## Introduction
 This article is a collection of best practices for more idiomatic python code especially if you are new to python. 
 

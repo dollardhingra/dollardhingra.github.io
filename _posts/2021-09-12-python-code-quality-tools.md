@@ -8,6 +8,8 @@
  excerpt: An introduction to some code quality tools in python like linters, formatters & style guides
 ---
 
+<hr>
+
 ## What is code quality?
 Before we talk about code quality tools, let's see what code quality is. We can agree that code is of high quality if
 
