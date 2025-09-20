@@ -1,0 +1,20 @@
+<footer class="page__footer">
+  {%- if site.footer and site.footer.links -%}
+  <div class="page__footer-follow">
+    <ul class="social-icons">
+      {%- for link in site.footer.links -%}
+      <li>
+        <a href="{{ link.url }}" rel="me noopener" target="_blank" title="{{ link.label }}">
+          {%- if link.icon -%}<i class="{{ link.icon }}"></i>{%- endif -%}
+          <span class="label">{{ link.label }}</span>
+        </a>
+      </li>
+      {%- endfor -%}
+    </ul>
+  </div>
+  {%- endif -%}
+
+  <div class="page__footer-copyright">
+    © {{ site.time | date: '%Y' }} {{ site.title | default: site.name }}.
+  </div>
+</footer>

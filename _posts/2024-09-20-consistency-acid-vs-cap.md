@@ -9,6 +9,7 @@
  last_modified_at: 2024-09-20T15:30:00+05:30
  toc: false
 ---
+<hr>
 
 Consistency is a cornerstone of data integrity, but its meaning can shift depending on context
 
