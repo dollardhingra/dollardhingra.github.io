@@ -19,7 +19,7 @@ permalink: /recommendations/
 3. [Parasite](https://www.imdb.com/title/tt6751668/)
 4. [A Beautiful Mind](https://www.imdb.com/title/tt0268978/)
 5. [The Pursuit of Happyness](https://www.imdb.com/title/tt0454921/)
-6. [The Green Mile](https://www.imdb.com/title/tt0120689/)
+6. [The Green Mile](https://www.imdb.com/title/tt0120689)
 7. [WALL·E](https://www.imdb.com/title/tt0910970)
 8. [Spirited Away](https://www.imdb.com/title/tt0245429)
 9. [Prisoners](https://www.imdb.com/title/tt1392214)
