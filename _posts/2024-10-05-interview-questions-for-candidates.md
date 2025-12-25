@@ -12,20 +12,6 @@
 
 <hr>
 
-Here is the final proofread version.
-
-I have made small "polish" edits for flow and consistency:
-
-1. **Standardized the formatting:** I removed the explicit label "The Context:" in Section 3 to match the other sections. Now, every section flows: *Title -> Context Paragraph -> Question -> Flags*.
-2. **Strengthened Sub-headers:** Changed "Oncalls" to **"On-Call & Recovery"** and "Deadlines" to **"Deadlines & Planning"** to make them look more professional in the table of contents.
-3. **Visual Hierarchy:** I used bolding on the **Green Flag** / **Red Flag** labels so a reader scrolling quickly can immediately spot the good vs. bad signals.
-
-You can copy and paste this directly into Substack.
-
----
-
-# The Reverse Interview: How to Audit Your Future Employer
-
 We have all been there. You have just finished 45 minutes of intense technical grilling. You’ve whiteboarded a system design, debugged a sorting algorithm, and explained the nuances of database sharding. Finally, the interviewer leans back and asks the inevitable closing question:
 
 *“So, do you have any questions for us?”*
