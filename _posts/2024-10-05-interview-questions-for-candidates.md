@@ -22,7 +22,7 @@ Too many engineers treat this moment as a formality. They ask about the lunch me
 
 An interview isn’t just an audition for you; it is a due diligence process for the company. You are about to invest a significant portion of your waking life into this organization. You need to know if their “agile environment” is actually chaotic, if their “fast-paced culture” actually means 60-hour weeks, and if their “modern stack” is actually legacy spaghetti code wrapped in a Docker container.
 
-Here is your checklist for the “Reverse Interview”—the questions that dig past the job description and reveal what life is actually like on the inside.
+Here is your checklist for the “Reverse Interview”-the questions that dig past the job description and reveal what life is actually like on the inside.
 
 ---
 
@@ -34,7 +34,7 @@ Here is your checklist for the “Reverse Interview”—the questions that dig 
 
 You don’t just want to know *what* you are building; you want to know *how* the solution is defined. In some companies, Product Managers hand down a spec and Engineers act as translators. In the best companies, Engineers are given a problem and asked to design the solution.
 
-> **Ask this:** “How does a project go from an idea to a ticket? Specifically, at what stage are engineers brought into the conversation—when the problem is identified, or after the solution has already been decided?”
+> **Ask this:** “How does a project go from an idea to a ticket? Specifically, at what stage are engineers brought into the conversation-when the problem is identified, or after the solution has already been decided?”
 
 **How to Read the Answer:**
 
@@ -71,7 +71,7 @@ Being on-call is part of the job. But if you are up at 3:00 AM fixing a database
 
 ### Deadlines & Planning
 
-Some companies rely on “heroes”—engineers who work weekends to save the deadline—because their planning is terrible. You want a boring company where deadlines are moved, not where sleep is sacrificed.
+Some companies rely on “heroes”-engineers who work weekends to save the deadline-because their planning is terrible. You want a boring company where deadlines are moved, not where sleep is sacrificed.
 
 > **Ask this:** “When was the last time the team had to work nights or weekends to meet a deadline? And what changes were made to the planning process to ensure it didn’t happen again?”
 
@@ -106,7 +106,7 @@ Every job description claims the role involves “solving complex problems at sc
 **How to Read the Answer:**
 
 * 🟢 **Green Flag:** They get specific about the nature of the problem. “We had a concurrency issue when we hit 10k users,” or “The business logic for this new tax calculation was incredibly knotted.”
-* 🚩 **Red Flag:** “Everything is a priority right now” or “Our biggest challenge is just hiring enough people.” These answers suggest the challenge isn’t technical—it’s organizational chaos.
+* 🚩 **Red Flag:** “Everything is a priority right now” or “Our biggest challenge is just hiring enough people.” These answers suggest the challenge isn’t technical-it’s organizational chaos.
 
 ---
 
@@ -127,4 +127,4 @@ At many companies, the only way to get a promotion past “Senior Engineer” is
 
 ---
 
-**Remember:** Finalizing a job offer should go beyond just monetary factors—understanding the company’s work environment, values, and long-term opportunities is equally important. The best interviews are two-way conversations that benefit both you and the company.
+**Remember:** Finalizing a job offer should go beyond just monetary factors-understanding the company’s work environment, values, and long-term opportunities is equally important. The best interviews are two-way conversations that benefit both you and the company.
