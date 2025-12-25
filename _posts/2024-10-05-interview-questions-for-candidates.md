@@ -24,8 +24,6 @@ An interview isn’t just an audition for you; it is a due diligence process for
 
 Here is your checklist for the “Reverse Interview”-the questions that dig past the job description and reveal what life is actually like on the inside.
 
----
-
 ## 1. Engineering Culture & Process
 
 *The questions in this section determine if you are a “Problem Solver” or a “Ticket Mover.” This is about your day-to-day autonomy and frustration levels.*
@@ -51,8 +49,6 @@ Code reviews can either be a great learning tool or a toxic battleground for ego
 
 * 🟢 **Green Flag:** “We use strict linters so humans don’t argue about indentation. We also have a rule: if you block a PR, you must suggest a fix.”
 * 🚩 **Red Flag:** “Oh, we are very particular. [Manager’s Name] reviews everything to ensure it matches their style.” This is micromanagement.
-
----
 
 ## 2. Work-Life Balance
 
@@ -80,8 +76,6 @@ Some companies rely on “heroes”-engineers who work weekends to save the dead
 * 🟢 **Green Flag:** “It happened last year, and we realized we were under-scoping. We’ve since switched to longer sprint cycles to buffer for unknowns.”
 * 🚩 **Red Flag:** “We work hard here,” or “We are a startup, so it’s all hands on deck.” (Translation: We are disorganized).
 
----
-
 ## 3. Technical Maturity & Challenges
 
 *The questions in this section separate the “Flashy Tech” they sell you in the interview from the “Legacy Code” you will actually maintain.*
@@ -108,8 +102,6 @@ Every job description claims the role involves “solving complex problems at sc
 * 🟢 **Green Flag:** They get specific about the nature of the problem. “We had a concurrency issue when we hit 10k users,” or “The business logic for this new tax calculation was incredibly knotted.”
 * 🚩 **Red Flag:** “Everything is a priority right now” or “Our biggest challenge is just hiring enough people.” These answers suggest the challenge isn’t technical-it’s organizational chaos.
 
----
-
 ## 4. Career Growth & Progression
 
 *This final check ensures you don’t hit a ceiling where the only way to get a raise is to stop coding.*
@@ -124,7 +116,5 @@ At many companies, the only way to get a promotion past “Senior Engineer” is
 
 * 🟢 **Green Flag:** “Yes, our Principal Engineers report directly to the Director/VP and drive technical strategy without managing reports.”
 * 🚩 **Red Flag:** “Well, eventually you’ll need to take on some ‘Team Lead’ responsibilities to move up.” This is code for: *You have to manage people if you want more money.*
-
----
 
 **Remember:** Finalizing a job offer should go beyond just monetary factors-understanding the company’s work environment, values, and long-term opportunities is equally important. The best interviews are two-way conversations that benefit both you and the company.
