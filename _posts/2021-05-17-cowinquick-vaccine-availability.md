@@ -31,7 +31,7 @@ As soon as you get the notification that slots are available in your district, y
 I created a simple HTML page that calls the public CoWIN API in JS. Check out the live demo [here](https://dollardhingra.com/cowinquick/).  
 **Note:** This website can only be used for checking the available slots. For booking, the [official site](https://www.cowin.gov.in/home) must be used.
 
-<iframe width="1046" height="588" src="https://www.youtube.com/embed/knjqHZNs7LM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1046" height="588" src="https://www.youtube-nocookie.com/embed/knjqHZNs7LM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 This helps in booking as
